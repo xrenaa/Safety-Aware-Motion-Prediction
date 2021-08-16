@@ -15,7 +15,7 @@
 ```bibtex
 @inproceedings{ren2021unseen,
   title   = {Safety-aware Motion Prediction with Unseen Vehicles for Autonomous Driving},
-  author  = {Xuanchi Ren, Tao Yang, Li Erran Li, Alexandre Alahi, Qifeng Che},
+  author  = {Xuanchi Ren, Tao Yang, Li Erran Li, Alexandre Alahi, Qifeng Chen},
   booktitle = {ICCV},
   year    = {2021}
 }
