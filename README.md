@@ -4,7 +4,7 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 
 > **Safety-aware Motion Prediction with Unseen Vehicles for Autonomous Driving** <br>
-> Xuanchi Ren, Tao Yang, Li Erran Li, Alexandre Alahi, and Qifeng Chen<br>
+> *Xuanchi Ren, Tao Yang, Li Erran Li, Alexandre Alahi, and Qifeng Chen*<br>
 > *ICCV 2021*<br>
 > 
 [[Paper]()]
