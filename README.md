@@ -7,7 +7,7 @@
 > *Xuanchi Ren, Tao Yang, Li Erran Li, Alexandre Alahi, and Qifeng Chen*<br>
 > *ICCV 2021*<br>
 > 
-[[Paper]()]
+[[Paper](https://arxiv.org/pdf/2109.01510.pdf)]
 [[Supplementary material]()]
 
 
