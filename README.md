@@ -10,6 +10,11 @@
 [[Paper](https://arxiv.org/pdf/2109.01510.pdf)]
 [[Supplementary material]()]
 
+## Recent Updates   
+I am sorry that I am busying with application, and I am planning to release code ASAP.
+<!-- :white_check_mark: Update StyleGAN2   -->
+:black_square_button: Update data preprocessing code  
+:black_square_button: Update model  
 
 ## Citation
 ```bibtex
