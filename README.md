@@ -1,4 +1,4 @@
-## Safety-aware Motion Prediction with Unseen Vehicles for Autonomous Driving
+# Safety-aware Motion Prediction with Unseen Vehicles for Autonomous Driving
 
 <a href="https://arxiv.org/abs/2109.01510"><img src="https://img.shields.io/badge/arXiv-2102.10543-b31b1b.svg"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
@@ -65,6 +65,9 @@ python process_data.py --data ../nuScenes --split train_val --img_size 128
 python process_data.py --data ../nuScenes --split val --img_size 128
 ```
 We provide a [notebook](experiments/nuScenes/data_playground.ipynb) to visualize the processed data.
+
+<!-- ## Train ## -->
+
 
 ## Citation
 ```bibtex
