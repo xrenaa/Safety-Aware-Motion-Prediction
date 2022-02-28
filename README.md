@@ -47,11 +47,11 @@ pip install -r requirements.txt
 
 ```
 experiments/nuscenes
-    samples	-	Sensor data for keyframes.
-    sweeps	-	Sensor data for intermediate frames.
-    maps	-	Folder for all map files: rasterized .png images and vectorized .json files.
+    samples	        -	Sensor data for keyframes.
+    sweeps	        -	Sensor data for intermediate frames.
+    maps	        -	Folder for all map files: rasterized .png images and vectorized .json files.
     v1.0-trainval	-	JSON tables that include all the meta data and annotations.
-    process_data.py - Our provided data processing script.
+    process_data.py	-	Our provided data processing script.
 ```
 
 2. Finally, process them into a data format that our model can work with.
