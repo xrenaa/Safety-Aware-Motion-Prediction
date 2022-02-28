@@ -14,7 +14,8 @@
 <!-- I am sorry that I am busying with application, and I am planning to release code ASAP. -->
 <!-- :white_check_mark: Update StyleGAN2   -->
 :white_check_mark: Update data preprocessing code  
-:black_square_button: Update model  
+:white_check_mark: Update model  
+:black_square_button: Training script  
 
 ## Installation ##
 
