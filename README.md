@@ -8,7 +8,7 @@
 > *ICCV 2021*<br>
 > 
 [[Paper](https://arxiv.org/pdf/2109.01510.pdf)]
-[[Supplementary material]()]
+[[Supplementary material](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Ren_Safety-Aware_Motion_Prediction_ICCV_2021_supplemental.pdf)]
 
 ## Recent Updates   
 <!-- I am sorry that I am busying with application, and I am planning to release code ASAP. -->
